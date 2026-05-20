@@ -95,7 +95,7 @@ If you are done, Congratulations!
 
 ---
 
-### Task 3: Lesson 3 - Create and Delete Files
+### Task 3: Lesson 3 - Work with Directories
 
 <img src="../../.github/assets/intro12_killercoda.jpeg" width="250">
 
